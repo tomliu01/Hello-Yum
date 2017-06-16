@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  clear: left;
+  padding-top: 15px;
+}
+
+img {
+  height: 250px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+  padding: 5px;
+}
+
+nav li a {
+  text-decoration: none;
+}
+
+nav li a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+}
+
+p, li {
+  font-family: Georgia;
+}
+
+h1, h2, h3 {
+  font-family: 'Lato', arial
+}
+
+.ingList span {
+  font-size: 12px;
+  font-family: cursive;
+}
+
+#steps li {
+  line-height: 30px;
+}
+
+html {
+  background-color: #F1FFC4;
+}
